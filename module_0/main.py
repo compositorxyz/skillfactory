@@ -1,3 +1,4 @@
+
 import numpy as np
 
 def game_core(number):
@@ -34,4 +35,3 @@ def score_game(game_core):
     return(score)
 
 score_game(game_core)
-print("Hello!")
